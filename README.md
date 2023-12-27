@@ -9,7 +9,8 @@
 smart solutions with technology ❤️  <br><br>Hello! My name is Luan and I'm a software developer. I work mainly with react, nodejs, typescript and php, too. I'm a very friendly guy and easy to make friends with! I am always open to new opportunities and technologies.🪑🚀 </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
- 
+ <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=luancostar&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=luancostar&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
