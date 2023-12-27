@@ -2,7 +2,7 @@
 
  
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/luancostar/luancostar/main/hello%40realgreatsite.com.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/luancostar/luancostar/main/hello%40realgreatsite.com%20(2).png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"> 
