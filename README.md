@@ -5,7 +5,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br>Hello! My name is Luan and I'm a software developer. I work mainly with react, nodejs, typescript and php, too. I'm a very friendly guy and easy to make friends with! I am always open to new opportunities and technologies.🪑🚀 </p>&nbsp;
+<p align="center"> 
+smart solutions with technology ❤️  <br><br>Hello! My name is Luan and I'm a software developer. I work mainly with react, nodejs, typescript and php, too. I'm a very friendly guy and easy to make friends with! I am always open to new opportunities and technologies.🪑🚀 </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
